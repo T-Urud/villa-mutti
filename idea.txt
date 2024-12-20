@@ -1,0 +1,2 @@
+carousel horizontal (scroll vers coté)
+diviser en 'categories' (exterieur, chambre, cuisine, piece de vie...) => plusieurs carousel horizontaux 
